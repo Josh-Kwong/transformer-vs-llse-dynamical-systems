@@ -1,4 +1,4 @@
-# In-Context Learning for Linear Dynamical Systems
+# Transformer vs LLSE in Dynamical Systems Prediction
 
 A transformer trained to predict the next state of an unknown linear dynamical system, using only the observed sequence as context. The model outperforms the mathematically optimal linear least squares estimator (LLSE) in the low data context through training.
 <img width="1485" height="824" alt="image" src="https://github.com/user-attachments/assets/f1c2b9b5-ee57-4d95-9511-d50990637763" />
